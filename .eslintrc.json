@@ -34,7 +34,12 @@
     ],
     "semi": [
       "error",
-      "always"
+      "never"
     ]
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
   }
 }
